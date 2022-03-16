@@ -25,4 +25,5 @@ socket.emit('previousMessages',messages);
         console.log(data)
     })
 }) 
+
 server.listen(3000);
